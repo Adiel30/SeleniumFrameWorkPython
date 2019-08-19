@@ -1,0 +1,94 @@
+08/18/2019 06:11:42 AM - Util - INFO: Actual Text From Application Web UI --> :: Let's Kode It
+08/18/2019 06:11:42 AM - Util - INFO: Expected Text From Application Web UI --> :: Let's kode it
+08/18/2019 06:11:42 AM - Util - INFO: ### VERIFICATION CONTAINS !!!
+h locator: //img[@class='gravatar'] 
+and locatorType: xpath
+08/18/2019 06:11:23 AM - NavigationPage - INFO: Clicked on element w08/18/2019 06:11:42 AM - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL :: + Title Is Correct
+08/18/2019 06:11:42 AM - CheckStatus - INFO: ### VERIFICATION SUCCESSFUL :: + You Have Successful Login
+08/18/2019 06:11:42 AM - CheckStatus - INFO: test_ValidTest ### TEST SUCCESSFUL
+019 06:10:10 AM - RegistrationCoursesPage - INFO: 
+Element Found with locator: enroll-button-top 
+and locatorType: id
+08/18/2019 06:10:15 AM - RegistrationCoursesPage - INFO: Clicked on element with 08/18/2019 06:11:13 AM - LoginPage - INFO: 
+Element Found with locator: Login 
+and locatorType: link
+08/18/2019 06:11:13 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+08/18/2019 06:11:17 AM - LoginPage - INFO: 
+Element Found with locator: user_email 
+and locatorType: id
+08/18/2019 06:11:17 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+08/18/2019 06:11:17 AM - LoginPage - INFO: 
+Element Found with locator: user_password 
+and locatorType: id
+08/18/2019 06:11:17 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+08/18/2019 06:11:17 AM - LoginPage - INFO: 
+Element Found with locator: //input[@value='Log In'] 
+and locatorType: xpath
+08/18/2019 06:11:21 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log In'] locatorType: xpath
+08/18/2019 06:11:26 AM - LoginPage - INFO: Waiting for maximum :: 10 :: seconds for element to be clickable
+08/18/2019 06:11:26 AM - LoginPage - INFO: Element appeared on the web page
+08/18/2019 06:11:31 AM - LoginPage - INFO: Clicked on element with locator:  locatorType: id
+08/18/2019 06:11:31 AM - LoginPage - INFO: 
+Element Found with locator: Login 
+and locatorType: link
+08/18/2019 06:11:31 AM - LoginPage - INFO: Clicked on element with locator: Login locatorType: link
+08/18/2019 06:11:33 AM - LoginPage - INFO: 
+Element Found with locator: user_email 
+and locatorType: id
+08/18/2019 06:11:33 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+08/18/2019 06:11:33 AM - LoginPage - INFO: 
+Element Found with locator: user_password 
+and locatorType: id
+08/18/2019 06:11:33 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+08/18/2019 06:11:33 AM - LoginPage - INFO: 
+Element Found with locator: //input[@value='Log In'] 
+and locatorType: xpath
+08/18/2019 06:11:34 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log In'] locatorType: xpath
+08/18/2019 06:11:34 AM - LoginPage - INFO: 
+Element Found with locator: //div[contains(text(),'Invalid email or password')] 
+and locatorType: xpath
+08/18/2019 06:11:34 AM - LoginPage - INFO: Element present with locator: //div[contains(text(),'Invalid email or password')] locatorType: xpath
+08/18/2019 06:11:34 AM - LoginPage - INFO: 
+Element Found with locator: user_email 
+and locatorType: id
+08/18/2019 06:11:34 AM - LoginPage - INFO: 
+Element Found with locator: user_password 
+and locatorType: id
+08/18/2019 06:11:39 AM - LoginPage - INFO: 
+Element not found with locator: Login 
+and locatorType: link
+08/18/2019 06:11:39 AM - LoginPage - INFO: Cannot click on the element with locator: Login locatorType: link
+08/18/2019 06:11:39 AM - LoginPage - INFO: 
+Element Found with locator: user_email 
+and locatorType: id
+08/18/2019 06:11:39 AM - LoginPage - INFO: Sent data on element with locator: user_email locatorType: id
+08/18/2019 06:11:39 AM - LoginPage - INFO: 
+Element Found with locator: user_password 
+and locatorType: id
+08/18/2019 06:11:39 AM - LoginPage - INFO: Sent data on element with locator: user_password locatorType: id
+08/18/2019 06:11:39 AM - LoginPage - INFO: 
+Element Found with locator: //input[@value='Log In'] 
+and locatorType: xpath
+08/18/2019 06:11:42 AM - LoginPage - INFO: Clicked on element with locator: //input[@value='Log In'] locatorType: xpath
+08/18/2019 06:11:42 AM - LoginPage - INFO: 
+Element Found with locator: //img[@class='gravatar'] 
+and locatorType: xpath
+08/18/2019 06:11:42 AM - LoginPage - INFO: Element present with locator: //img[@class='gravatar'] locatorType: xpath
+data on element with locator: cvc locatorType: name
+08/18/2019 06:11:04 AM - RegistrationCoursesPage - INFO: 
+Element Found with locator: postal 
+and locatorType: name
+08/18/2019 06:11:04 AM - RegistrationCoursesPage - INFO: Sent data on element with locator: postal locatorType: name
+08/18/2019 06:11:04 AM - RegistrationCoursesPage - INFO: 
+Element Found with locator: agreed_to_terms_checkbox 
+and locatorType: id
+08/18/2019 06:11:04 AM - RegistrationCoursesPage - INFO: Clicked on element with locator: agreed_to_terms_checkbox locatorType: id
+08/18/2019 06:11:04 AM - RegistrationCoursesPage - INFO: 
+Element Found with locator: //button[@id='confirm-purchase']/parent::div 
+and locatorType: xpath
+08/18/2019 06:11:04 AM - RegistrationCoursesPage - INFO: Attribute value From Application Web UI --> :: spc__primary-submit
+08/18/2019 06:11:04 AM - RegistrationCoursesPage - INFO: Element :: 'Enroll Button' is enabled
+08/18/2019 06:11:05 AM - RegistrationCoursesPage - INFO: 
+Element Found with locator: //a[contains(text(),'All Courses')] 
+and locatorType: xpath
+08/18/2019 06:11:05 AM - RegistrationCoursesPage - INFO: Clicked on element with locator: //a[contains(text(),'All Courses')] locatorType: xpath
